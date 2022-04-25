@@ -13,3 +13,6 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata), and
 [Data Binding](https://developer.android.com/topic/libraries/data-binding/) with binding 
 adapters.
+
+
+<img src="https://user-images.githubusercontent.com/8702105/165186085-5cf71808-d848-46ff-9861-a9cabb848e7c.jpg" width="300" height="600">      <img src="https://user-images.githubusercontent.com/8702105/165186087-2632050d-33f0-4991-955f-efb7976beb97.jpg" width="300" height="600">
